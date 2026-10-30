@@ -1,0 +1,14 @@
+{
+  "id": "ps5-ar-detector",
+  "name": "PS5 Game Detector",
+  "version": "0.1.0",
+  "author": "GAMRY / ALRYES",
+  "api": 1,
+  "kind": "elf",
+  "elf": "ps5-ar-detector.ovl",
+  "order": 72,
+  "keepAlive": false,
+  "autostart": false,
+  "description": "Detects the foreground PS5 game using ShadowMountPlus kernel-log events.",
+  "libs": []
+}
